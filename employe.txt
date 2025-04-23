@@ -1,0 +1,4 @@
+empcode:190098
+empname:Vidit
+doj:2025-03-06
+salary:80000
